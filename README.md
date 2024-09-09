@@ -31,6 +31,7 @@ A **Stack** is a linear data structure that follows the **Last-In-First-Out (LIF
 
 ---
 
+## 📚 Queue
 
 ### What is a Queue?
 
